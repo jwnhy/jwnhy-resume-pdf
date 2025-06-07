@@ -1,5 +1,11 @@
 \begin{thebibliography}{1}
 
+\bibitem{mole}
+Hongyi Lu, Yunjie Deng, Sukarno Mertoguno, Shuai Wang, and Fengwei Zhang.
+\newblock {MOLE}: {Breaking} {GPU} {TEE} with {GPU-Embedded} {MCU}.
+\newblock In {\em the Proceedings of the 2025 ACM SIGSAC Conference on Computer
+  and Communications Security}, 2025.
+
 \bibitem{dtd}
 Hongyi Lu, Zhibo Liu, Shuai Wang, and Fengwei Zhang.
 \newblock {DTD}: {Comprehensive} and {Scalable} {Testing} for {Debuggers}.
