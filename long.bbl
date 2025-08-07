@@ -5,15 +5,15 @@
 \newblock {MOLE}: {Breaking} {GPU} {TEE} with {GPU-Embedded} {MCU}.
 \newblock In {\em the Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (\textbf{CCS,CCF-A})}, 2025.
 
-\bibitem{287103}
-Hongyi Lu, Shuai Wang, Yechang Wu, Wanning He, and Fengwei Zhang.
-\newblock {MOAT}: {Towards} {Safe} {BPF} {Kernel} {Extension}.
-\newblock In {\em 33nd USENIX Security Symposium (\textbf{USENIX Security, CCF-A})}, 2024.
-
 \bibitem{dtd}
 \textbf{Hongyi} \textbf{Lu}, Zhibo Liu, Shuai Wang, and Fengwei Zhang.
 \newblock {DTD}: {Comprehensive} and {Scalable} {Testing} for {Debuggers}.
 \newblock In {\em the Proceedings of the ACM on Software Engineering (\textbf{FSE,CCF-A})}, 2024.
+
+\bibitem{287103}
+\textbf{Hongyi} \textbf{Lu}, Shuai Wang, Yechang Wu, Wanning He, and Fengwei Zhang.
+\newblock {MOAT}: {Towards} {Safe} {BPF} {Kernel} {Extension}.
+\newblock In {\em 33nd USENIX Security Symposium (\textbf{USENIX Security, CCF-A})}, 2024.
 
 \bibitem{10.1145/3609021.3609304}
 Wanning He*, \textbf{Hongyi} \textbf{Lu*}, Fengwei Zhang, and Shuai Wang.
