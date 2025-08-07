@@ -1,44 +1,38 @@
 \begin{thebibliography}{1}
 
 \bibitem{mole}
-Hongyi Lu, Yunjie Deng, Sukarno Mertoguno, Shuai Wang, and Fengwei Zhang.
+\textbf{Hongyi} \textbf{Lu*}, Yunjie Deng*, Sukarno Mertoguno, Shuai Wang, and Fengwei Zhang.
 \newblock {MOLE}: {Breaking} {GPU} {TEE} with {GPU-Embedded} {MCU}.
-\newblock In {\em the Proceedings of the 2025 ACM SIGSAC Conference on Computer
-  and Communications Security}, 2025.
-
-\bibitem{dtd}
-Hongyi Lu, Zhibo Liu, Shuai Wang, and Fengwei Zhang.
-\newblock {DTD}: {Comprehensive} and {Scalable} {Testing} for {Debuggers}.
-\newblock In {\em the Proceedings of the ACM on Software Engineering}, 2024.
+\newblock In {\em the Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (\textbf{CCS,CCF-A})}, 2025.
 
 \bibitem{287103}
 Hongyi Lu, Shuai Wang, Yechang Wu, Wanning He, and Fengwei Zhang.
 \newblock {MOAT}: {Towards} {Safe} {BPF} {Kernel} {Extension}.
-\newblock In {\em 33nd USENIX Security Symposium}, 2024.
+\newblock In {\em 33nd USENIX Security Symposium (\textbf{USENIX Security, CCF-A})}, 2024.
+
+\bibitem{dtd}
+\textbf{Hongyi} \textbf{Lu}, Zhibo Liu, Shuai Wang, and Fengwei Zhang.
+\newblock {DTD}: {Comprehensive} and {Scalable} {Testing} for {Debuggers}.
+\newblock In {\em the Proceedings of the ACM on Software Engineering (\textbf{FSE,CCF-A})}, 2024.
 
 \bibitem{10.1145/3609021.3609304}
-Wanning He, Hongyi Lu, Fengwei Zhang, and Shuai Wang.
+Wanning He*, \textbf{Hongyi} \textbf{Lu*}, Fengwei Zhang, and Shuai Wang.
 \newblock {RingGuard}: {Guard} {io\_uring} with {eBPF}.
-\newblock In {\em the Proceedings of the 1st Workshop on eBPF and Kernel
-  Extensions}, pages 56--62, 2023.
+\newblock In {\em the Proceedings of the 1st Workshop on eBPF and Kernel Extensions (\textbf{eBPF})}, pages 56--62, 2023.
 
 \bibitem{10.1145/3505253.3505257}
-Haonan Li, Weijie Huang, Mingde Ren, Hongyi Lu, Zhenyu Ning, Heming Cui, and
-  Fengwei Zhang.
+Haonan Li, Weijie Huang, Mingde Ren, \textbf{Hongyi} \textbf{Lu}, Zhenyu Ning, Heming Cui, and Fengwei Zhang.
 \newblock A {Novel} {Memory} {Management} for {RISC-V} {Enclaves}.
-\newblock In {\em the Proceedings of the 10th International Workshop on
-  Hardware and Architectural Support for Security and Privacy}, 2022.
+\newblock In {\em the Proceedings of the 10th International Workshop on Hardware and Architectural Support for Security and Privacy~(\textbf{HASP})}, 2022.
 
 \bibitem{10.1145/3489517.3530583}
-Hongyi Lu and Fengwei Zhang.
+\textbf{Hongyi} \textbf{Lu} and Fengwei Zhang.
 \newblock Raven: a {Novel} {Kernel} {Debugging} {Tool} on {RISC-V}.
-\newblock In {\em the Proceedings of the 59th ACM/IEEE Design Automation
-  Conference}, pages 1039--1044, 2022.
+\newblock In {\em the Proceedings of the 59th ACM/IEEE Design Automation Conference (\textbf{DAC,CCF-A})}, pages 1039--1044, 2022.
 
 \bibitem{9474274}
-Hongyi Lu, Yechang Wu, Shuqing Li, You Lin, Chaozu Zhang, and Fengwei Zhang.
+\textbf{Hongyi} \textbf{Lu}, Yechang Wu, Shuqing Li, You Lin, Chaozu Zhang, and Fengwei Zhang.
 \newblock {BADUSB-C}: Revisiting {BadUSB} with {Type-C}.
-\newblock In {\em 2021 IEEE Security and Privacy Workshops (SPW)}, pages
-  327--338, 2021.
+\newblock In {\em 2021 IEEE Security and Privacy Workshops (\textbf{WOOT})}, pages 327--338, 2021.
 
 \end{thebibliography}
