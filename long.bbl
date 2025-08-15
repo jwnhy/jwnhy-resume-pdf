@@ -1,18 +1,28 @@
 \begin{thebibliography}{1}
 
+\bibitem{moatarm}
+Lijian Huang*, \textbf{Hongyi} \textbf{Lu*}, Shuai Wang, and Fengwei Zhang.
+\newblock {Towards} {Secure} {BPF} {Kernel} {Extension} with {Hardware-enhanced} {Memory} {Isolation}.
+\newblock In {\em Major Revision with TDSC}, 2026.
+
+\bibitem{cusafe}
+\textbf{Hongyi} \textbf{Lu}, Fengwei Zhang, Zhenkai Zhang, Shuai Wang, and Yanan Guo.
+\newblock \textsc{CuSafe}: {Capturing} {Memory} {Corruption} on {NVIDIA} {GPUs}.
+\newblock In {\em Submission}, 2026.
+
 \bibitem{mole}
 \textbf{Hongyi} \textbf{Lu*}, Yunjie Deng*, Sukarno Mertoguno, Shuai Wang, and Fengwei Zhang.
 \newblock {MOLE}: {Breaking} {GPU} {TEE} with {GPU-Embedded} {MCU}.
-\newblock In {\em the Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (\textbf{CCS,CCF-A})}, 2025.
+\newblock In {\em the Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (\textbf{CCS, CCF-A})}, 2025.
 
 \bibitem{dtd}
 \textbf{Hongyi} \textbf{Lu}, Zhibo Liu, Shuai Wang, and Fengwei Zhang.
 \newblock {DTD}: {Comprehensive} and {Scalable} {Testing} for {Debuggers}.
-\newblock In {\em the Proceedings of the ACM on Software Engineering (\textbf{FSE,CCF-A})}, 2024.
+\newblock In {\em the Proceedings of the ACM on Software Engineering (\textbf{FSE, CCF-A})}, 2024.
 
 \bibitem{287103}
 \textbf{Hongyi} \textbf{Lu}, Shuai Wang, Yechang Wu, Wanning He, and Fengwei Zhang.
-\newblock {MOAT}: {Towards} {Safe} {BPF} {Kernel} {Extension}.
+\newblock \textsc{Moat}: {Towards} {Safe} {BPF} {Kernel} {Extension}.
 \newblock In {\em 33nd USENIX Security Symposium (\textbf{USENIX Security, CCF-A})}, 2024.
 
 \bibitem{10.1145/3609021.3609304}
@@ -28,11 +38,11 @@ Haonan Li, Weijie Huang, Mingde Ren, \textbf{Hongyi} \textbf{Lu}, Zhenyu Ning, H
 \bibitem{10.1145/3489517.3530583}
 \textbf{Hongyi} \textbf{Lu} and Fengwei Zhang.
 \newblock Raven: a {Novel} {Kernel} {Debugging} {Tool} on {RISC-V}.
-\newblock In {\em the Proceedings of the 59th ACM/IEEE Design Automation Conference (\textbf{DAC,CCF-A})}, pages 1039--1044, 2022.
+\newblock In {\em the Proceedings of the 59th ACM/IEEE Design Automation Conference (\textbf{DAC, CCF-A})}, pages 1039--1044, 2022.
 
 \bibitem{9474274}
 \textbf{Hongyi} \textbf{Lu}, Yechang Wu, Shuqing Li, You Lin, Chaozu Zhang, and Fengwei Zhang.
-\newblock {BADUSB-C}: Revisiting {BadUSB} with {Type-C}.
+\newblock \textsc{BadUsb-C}: Revisiting {BadUSB} with {Type-C}.
 \newblock In {\em 2021 IEEE Security and Privacy Workshops (\textbf{WOOT})}, pages 327--338, 2021.
 
 \end{thebibliography}
