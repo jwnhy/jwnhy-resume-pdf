@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024 Gentoo Linux) (preloaded format=pdflatex 2025.7.5)  15 AUG 2025 14:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024 Gentoo Linux) (preloaded format=pdflatex 2025.7.5)  15 AUG 2025 15:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -365,7 +365,7 @@ Package nfssext-cfr Warning: Patching font initialisation macro for sans. on inp
 Package nfssext-cfr Warning: Patching font initialisation macro for typewriter. on input line 718.
 
 )
-LaTeX Font Info:    Trying to load font information for T1+qtm on input line 19.
+LaTeX Font Info:    Trying to load font information for T1+qtm on input line 22.
  (/usr/share/texmf-dist/tex/latex/tex-gyre/t1qtm.fd
 File: t1qtm.fd 2009/09/25 v1.2 font definition file for T1/qtm
 ) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -375,58 +375,58 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (./long.aux)
 \openout1 = `long.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/lmm/m/it on input line 19.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 19.
+LaTeX Font Info:    Checking defaults for OML/lmm/m/it on input line 22.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 22.
  (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/lmsy/m/n on input line 19.
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 19.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/lmsy/m/n on input line 22.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 22.
  (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/lmr/m/n on input line 19.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 19.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 22.
  (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/lmex/m/n on input line 19.
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 19.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/lmex/m/n on input line 22.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 22.
  (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: <default>
+* paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(43.36243pt, 510.78302pt, 43.36243pt)
-* v-part:(T,H,B)=(43.36243pt, 758.32199pt, 43.36243pt)
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 1024.29922pt, 56.9055pt)
 * \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=510.78302pt
-* \textheight=758.32199pt
-* \oddsidemargin=-28.90756pt
-* \evensidemargin=-28.90756pt
-* \topmargin=-65.90756pt
+* \paperheight=1138.11023pt
+* \textwidth=483.69687pt
+* \textheight=1024.29922pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -463,48 +463,64 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 19.
+Package hyperref Info: Link coloring ON on input line 22.
  (./long.out) (./long.out)
 \@outlinefile=\write3
 \openout3 = `long.out'.
 
-LaTeX Info: Redefining \swshape on input line 19.
+LaTeX Info: Redefining \swshape on input line 22.
 
 
-Package nfssext-cfr Warning: Overwriting kernel definition of \swshape  (new) on input line 19.
+Package nfssext-cfr Warning: Overwriting kernel definition of \swshape  (new) on input line 22.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 27.
+(Font)              <10> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 27.
+(Font)              <7> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 27.
+(Font)              <5> on input line 30.
 (./long.bbl)
-LaTeX Font Info:    Trying to load font information for T1+clm2jv on input line 84.
- (/usr/share/texmf-dist/tex/latex/cfr-lm/t1clm2jv.fd
+Overfull \hbox (10.25905pt too wide) in paragraph at lines 91--92
+[]\T1/qtm/m/n/10 Our eval-u-a-tion shows that \T1/qtm/m/sc/10 CuSafe \T1/qtm/m/n/10 beats ex-ist-ing tools such as compute-sanitizer (\T1/qtm/b/n/10 NVIDIA\T1/qtm/m/n/10 ), cu-Catch (PLDI'22, \T1/qtm/b/n/10 NVIDIA\T1/qtm/m/n/10 ),
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+clm2jv on input line 98.
+(/usr/share/texmf-dist/tex/latex/cfr-lm/t1clm2jv.fd
 File: t1clm2jv.fd 2024/09/19 Fontinst v1.933 font definitions for T1/clm2jv.
 )
+./long.tex:143: Missing } inserted.
+<inserted text> 
+                }
+l.143 \end{content}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cfr-lm/t1-clm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cfr-lm/dotdigits-clm.enc}] (./long.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cfr-lm/t1-clm.enc}] (./long.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
 Package rerunfilecheck Info: File `long.out' has not changed.
-(rerunfilecheck)             Checksum: 57804E05B0EBCBF2AA1BED105663DEA6;537.
+(rerunfilecheck)             Checksum: FE3AE04293DDE08CE17EABEFEE1A148B;433.
  ) 
 Here is how much of TeX's memory you used:
- 12142 strings out of 475322
- 188029 string characters out of 5771095
- 616579 words of memory out of 5000000
- 34783 multiletter control sequences out of 15000+600000
- 601098 words of font info for 64 fonts, out of 8000000 for 9000
+ 12143 strings out of 475322
+ 188036 string characters out of 5771095
+ 622653 words of memory out of 5000000
+ 34784 multiletter control sequences out of 15000+600000
+ 604188 words of font info for 65 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,5n,80p,1243b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmb10.pfb></usr/share/texmf-dist/fonts/type1/public/sansmathfonts/cmssbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmvtt10.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmbi.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb>
-Output written on long.pdf (1 page, 187281 bytes).
+Output written on long.pdf (1 page, 190435 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  84 compressed objects within 1 object stream

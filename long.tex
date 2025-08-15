@@ -1,5 +1,5 @@
 \documentclass{resume}
-\usepackage[left=0.6in,top=0.6in,right=0.6in,bottom=0.6in]{geometry}
+\usepackage[paperwidth=210mm,paperheight=400mm,margin=20mm]{geometry}
 \usepackage[svgnames]{xcolor}
 \usepackage{hyperref}
 \hypersetup{%
@@ -15,6 +15,9 @@
 
 \usepackage[T1]{fontenc}
 \usepackage{tgtermes}
+
+\usepackage{atbegshi}
+
 
 \begin{document}
 
@@ -77,40 +80,63 @@ In total, I have published \textbf{four CCF-A papers} as first/co-first author~(
 \end{content}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PROJECTS
-\section{Projects \textbf{\em\&} Extracurriculars}
+\section{Projects}
 
 \begin{content}
+  {\bf \textbf{\textsc{CuSafe}}} \enspace
+  {\href{https://sites.google.com/view/safe-gpu/}{sites.google.com/view/safe-gpu/}}
+
+  {We built a system named \textsc{CuSafe}. It detects memory safety vulnerabilities in CUDA programs.}
+
+  {Our evaluation shows that \textsc{CuSafe} beats existing tools such as compute-sanitizer~(\textbf{NVIDIA}), cuCatch~(PLDI'22, \textbf{NVIDIA}), and LMI~(HPCA' 25) in both performance and accuracy; \textsc{CuSafe} also supports the LLMs such as LLaMA2 and LLaMA3. \textsc{CuSafe} is 150x faster than the compute-sanitizer, which is the official tool provided by \textbf{NVIDIA}.}
+
+  {I proposed this project and worked as the sole student; I wrote all the code myself.}
+  \hfill {\bf 2025}
+
+
+  {\bf \textbf{\textsc{Mole}} (CCS' 25)} \enspace
+  {\href{https://sites.google.com/view/mole-gpu}{\texttt{sites.google.com/view/mole-gpu}}}
+
+  {We proposed a new attack against existing GPU TEEs; it leverages an under-documented MCU in Arm Mali GPUs to break the security of GPU TEEs. \textbf{Arm} have acknowledged our findings and enhanced their supply-chain security.}
+
+  {It breaks multiple GPU TEEs, such as StrongBox~(CCS' 22, \textbf{Ant Group}), CAGE~(NDSS' 25, \textbf{Ant Group}) and MyTEE~(NDSS' 23)}
+
+  {I proposed this project and worked as the leader; I wrote the most part of the code myself.}
+  \hfill{\bf 2025}
+
+
+  {\bf \textbf{\textsc{Moat}} (USENIX Security' 24)} \enspace
+  {\href{https://sites.google.com/view/safe-bpf/}{\texttt{sites.google.com/view/safe-bpf}}
+    
+    {We build a system named \textsc{Moat}. It isolates BPF programs using hardware features like Intel MPK/Arm Stage-II.}
+
+    {We have worked with a company to put it into production for \textbf{1,170,000 Yuan}.}
+    
+    {I proposed this project and worked as the leader; I wrote all the code myself.}
+    \hfill {\bf 2024}
+
+
 	{\bf LLVM} \enspace
 	{\href{https://github.com/llvm/}{\texttt{github.com/llvm}}
 
-		{\em Submitted a patch to the LLVM project, fixing a bug of its debugger.} }
+		{I submitted a patch to the LLVM project, fixing a bug of its debugger.} }
 	\hfill {\bf 2023}
 
 	{\bf Patent ZL 2022 1 0436969.8}
 
-	{\em Kernel Space Debug Method, Device and Storage Medium}
-	\hfill {\bf 2022}
-
-	{\bf Video2Ascii} \enspace
-	{\href{https://github.com/jwnhy/video2ascii}{\texttt{github.com/jwnhy/video2ascii}}
-
-		{\em Built a program that transforms your video into text animation.} }
+	{Kernel Space Debug Method, Device and Storage Medium}
 	\hfill {\bf 2022}
 
 	{\bf Translation of Software Foundation} \enspace
 	{\href{https://coq-zh.github.io/SF-zh/}{\texttt{coq-zh.github.io/SF-zh}}
 
-		{\em Helped translate the Software Foundation, a famous textbook
+		{I helped translate the Software Foundation, a famous textbook
 			about formal verification.}}
 	\hfill {\bf 2022}
 
-	{\bf Summer Camp, National University of Singapore} \enspace
-	{\href{https://sws.comp.nus.edu.sg/}{\texttt{sws.comp.nus.edu.sg}}
+  {\bf \textbf{\textsc{BadUSB-C}} (WOOT' 21)}
 
-		{\em Conducted a simulation project about highway traffic and mobile phone
-			signal.}}
-	\hfill {\bf 2019}
-
+  {We uncovered a novel attack vector against USB-C devices. It enhances the power of \textsc{BadUSB} attacks with the video capability of USB-C. We received \textbf{30,000 Yuan} bounty award from the affected vendor.}
 
 
 	\sectionlineskip

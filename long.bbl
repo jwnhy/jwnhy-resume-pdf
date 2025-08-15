@@ -8,11 +8,11 @@ Lijian Huang*, \textbf{Hongyi} \textbf{Lu*}, Shuai Wang, and Fengwei Zhang.
 \bibitem{cusafe}
 \textbf{Hongyi} \textbf{Lu}, Fengwei Zhang, Zhenkai Zhang, Shuai Wang, and Yanan Guo.
 \newblock \textsc{CuSafe}: {Capturing} {Memory} {Corruption} on {NVIDIA} {GPUs}.
-\newblock In {\em Submission}, 2026.
+\newblock In {\em Submission with USENIX Security}, 2026.
 
 \bibitem{mole}
 \textbf{Hongyi} \textbf{Lu*}, Yunjie Deng*, Sukarno Mertoguno, Shuai Wang, and Fengwei Zhang.
-\newblock {MOLE}: {Breaking} {GPU} {TEE} with {GPU-Embedded} {MCU}.
+\newblock \textsc{Mole}: {Breaking} {GPU} {TEE} with {GPU-Embedded} {MCU}.
 \newblock In {\em the Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (\textbf{CCS, CCF-A})}, 2025.
 
 \bibitem{dtd}
