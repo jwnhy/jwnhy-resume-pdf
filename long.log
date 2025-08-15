@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024 Gentoo Linux) (preloaded format=pdflatex 2025.7.5)  15 AUG 2025 16:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024 Gentoo Linux) (preloaded format=pdflatex 2025.7.5)  15 AUG 2025 22:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -480,12 +480,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 30.
 (./long.bbl)
-Overfull \hbox (10.25905pt too wide) in paragraph at lines 91--92
-[]\T1/qtm/m/n/10 Our eval-u-a-tion shows that \T1/qtm/m/sc/10 CuSafe \T1/qtm/m/n/10 beats ex-ist-ing tools such as compute-sanitizer (\T1/qtm/b/n/10 NVIDIA\T1/qtm/m/n/10 ), cu-Catch (PLDI'22, \T1/qtm/b/n/10 NVIDIA\T1/qtm/m/n/10 ),
- []
-
-LaTeX Font Info:    Trying to load font information for T1+clm2jv on input line 98.
-(/usr/share/texmf-dist/tex/latex/cfr-lm/t1clm2jv.fd
+LaTeX Font Info:    Trying to load font information for T1+clm2jv on input line 87.
+ (/usr/share/texmf-dist/tex/latex/cfr-lm/t1clm2jv.fd
 File: t1clm2jv.fd 2024/09/19 Fontinst v1.933 font definitions for T1/clm2jv.
 )
 ./long.tex:144: Missing } inserted.
@@ -520,7 +516,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  72i,5n,80p,1243b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmb10.pfb></usr/share/texmf-dist/fonts/type1/public/sansmathfonts/cmssbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmvtt10.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmbi.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb>
-Output written on long.pdf (1 page, 190648 bytes).
+Output written on long.pdf (1 page, 190668 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  84 compressed objects within 1 object stream
