@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024 Gentoo Linux) (preloaded format=pdflatex 2025.7.5)  15 AUG 2025 16:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024 Gentoo Linux) (preloaded format=pdflatex 2025.7.5)  15 AUG 2025 16:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -520,7 +520,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  72i,5n,80p,1243b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmb10.pfb></usr/share/texmf-dist/fonts/type1/public/sansmathfonts/cmssbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmvtt10.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmbi.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb>
-Output written on long.pdf (1 page, 190443 bytes).
+Output written on long.pdf (1 page, 190648 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  84 compressed objects within 1 object stream
