@@ -1,0 +1,137 @@
+% !TEX program = xelatex
+\documentclass{resume}
+\usepackage[paperwidth=210mm,paperheight=500mm,margin=20mm]{geometry}
+\usepackage[svgnames]{xcolor}
+\usepackage{hyperref}
+\hypersetup{%
+  colorlinks=true,          % hyperlinks
+  allcolors=DarkRed,%
+  pdfborderstyle={/S/U/W 1} % border style will be underline of width 1pt
+}
+
+
+\usepackage{vwcol}
+\usepackage[numbers]{natbib}
+\usepackage{cfr-lm}         % make old style numbers default
+\usepackage{graphicx}
+
+\usepackage[T1]{fontenc}
+\usepackage{tgtermes}
+
+\usepackage{atbegshi}
+
+\usepackage{ctex}
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TITLE SECTION
+\begin{center}
+	\name{卢 弘毅}
+	\contact
+	{+86 156 2529 0103}
+	{\href{mailto://luhy2017@mail.sustech.edu.cn}{luhy2017@mail.sustech.edu.cn}}
+	{\href{https://hongyi.lu}{https://hongyi.lu}}
+\end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% EDUCATION 
+\section{\textbf{教育背景}}
+\begin{content}
+	{\textbf{香港科技大学}}
+	\hfill {\textbf{2022 -- 至今}}
+	\\ \textbf{计算机科学博士}
+
+	\textbf{南方科技大学} \hfill \textbf{2017 -- 2021} \\
+	\textbf{数学学士} \hfill
+
+	% \vspace{-.25\baselineskip}
+	% {\em Honours:} If you'd rather list your awards here than in a separate section later, simply write the awards here and comment out that section (and vice versa).
+	\sectionlineskip
+\end{content}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% RESEARCH EXPERIENCE
+\section{\textbf{工作经历}}
+\begin{content}
+
+	\begin{position}{COMPASS Lab.}{Nov. 2021 -- 2022}{科研助理}{张锋巍教授}{南方科技大学}
+		\item 完成计算机系统相关的研究工作。
+	\end{position}
+
+	\sectionlineskip
+\end{content}
+\vspace{-3\medskipamount}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PUBLICATIONS 
+\noindent
+\renewcommand{\refname}{\textbf{学术发表}}   % name of the reference section
+\bibliography{biblio.bib}               % bib file
+\bibliographystyle{plainyr-rev}            % citation style
+\nocite{*}
+\sectionlineskip
+
+我合计作为第一作者/共同第一作者（以*标记）发表\textbf{四篇CCF-A类论文}，其中两篇是安全领域的“四大”会议。
+另外，我还有一篇在投的安全“四大”论文与一篇正在大修的CCF-A类期刊论文。
+
+
+\section{\textbf{学术服务}}
+\begin{content}
+	\textbf{正式审稿人} \enspace TIFS, TDSC
+
+	\textbf{外部审稿人} \enspace USENIX Security 2023, S\&P 2023, PoPET 2023, CCS 2023, CCS 2022
+\end{content}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PROJECTS
+\section{\textbf{项目介绍}}
+
+\begin{content}
+	\textbf{论文项目：}\textsc{CuSafe} \enspace
+	{\href{https://sites.google.com/view/safe-gpu/}{\texttt{sites.google.com/view/safe-gpu}}}
+
+	{我们创建了一个名为\textsc{CuSafe}的系统。 该系统支持对CUDA程序中的内存安全问题进行检测。}
+
+	{我们的评测显示\textsc{CuSafe}在性能和准确率两方面都超越了已有的相关工具，例如compute-sanitizer（由\textbf{NVIDIA}开发），cuCatch（PLDI’ 22，由\textbf{NVIDIA}开发）与LMI（HPCA’ 25）}
+
+	{我提出了该项目并作为唯一的学生负责该项目，我独自完成了整个项目的开发。}
+	\hfill {\bf 2025}
+
+
+	\textbf{论文项目：}\textsc{Mole} (CCS' 25) \enspace
+	{\href{https://sites.google.com/view/mole-gpu}{\texttt{sites.google.com/view/mole-gpu}}}
+
+	{我们提出了一种针对现有GPU可信执行环境的新式攻击。该攻击利用了一个在Arm GPU中的隐藏MCU来破坏GPU可信执行环境的安全性。}
+
+	{该攻击攻破了多个GPU可信执行环境，例如StrongBox（CCS’ 22，由\textbf{蚂蚁集团}开发）、CAGE（NDSS’ 24，由\textbf{蚂蚁集团}开发）和MyTEE（NDSS’ 23）。}
+
+	{我提出了该项目并作为项目负责人，我开发了该项目的大部分代码，另一位同学邓韵杰完成了OpenCL用户态攻击组件与攻击测试程序的开发。}
+	\hfill{\bf 2025}
+
+
+	\textbf{论文项目：}\textsc{Moat} (USENIX Security' 24) \enspace
+	{\href{https://sites.google.com/view/safe-bpf/}{\texttt{sites.google.com/view/safe-bpf}}}
+
+	{我们创建了一个名为\textsc{Moat}的系统。该系统能够利用Intel MPK/Arm StageII等硬件特性隔离恶意BPF程序以阻止对它们内核的攻击}
+
+	{我们正在与企业合作将该项目推向生产环境，该项目提供了\textbf{117万人民币的资助}。}
+
+	{我提出了该项目并作为项目负责人，我独自完成了整个项目的开发。目前与企业的合作由我负责指导，另一位同学黄沥剑负责开发。}
+	\hfill {\bf 2024}
+
+	\textbf{发明专利 2022 1 0436969.8}
+
+	{内核空间调试方法及其装置、计算机设备、存储介质}
+	\hfill {\bf 2022}
+
+	\textbf{《软件基础》翻译工作} \enspace
+	{\href{https://coq-zh.github.io/SF-zh/}{\texttt{coq-zh.github.io/SF-zh}}
+
+		{我协助翻译了《软件基础》中的部分内容。《软件基础》是形式化验证领域的一本知名教科书。}}
+	\hfill {\bf 2022}
+
+	\textbf{论文项目：}BadUSB-C (WOOT' 21)
+
+	{我们发现了针对USB-C设备的一种新式攻击，其利用USB-C的视频传输能力增强了传统BadUSB的攻击能力。该项目被受影响企业认定为高危漏洞，我们因此获得了\textbf{3万元人民币的赏金}}
+	\hfill {\bf 2021}
+
+
+	\sectionlineskip
+\end{content}
+
+\end{document}
