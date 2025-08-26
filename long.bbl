@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{moatarm}
 Lijian Huang*, \textbf{Hongyi} \textbf{Lu*}, Shuai Wang, and Fengwei Zhang.
@@ -9,6 +9,11 @@ Lijian Huang*, \textbf{Hongyi} \textbf{Lu*}, Shuai Wang, and Fengwei Zhang.
 \textbf{Hongyi} \textbf{Lu}, Fengwei Zhang, Zhenkai Zhang, Shuai Wang, and Yanan Guo.
 \newblock \textsc{CuSafe}: {Capturing} {Memory} {Corruption} on {NVIDIA} {GPUs}.
 \newblock In {\em Submission with USENIX Security}, 2026.
+
+\bibitem{dist}
+\textbf{Hongyi} \textbf{Lu}.
+\newblock Hardware-assisted {Memory} {Isolation}.
+\newblock In {\em the Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (\textbf{CCS, PhD Symposium})}, 2025.
 
 \bibitem{mole}
 \textbf{Hongyi} \textbf{Lu*}, Yunjie Deng*, Sukarno Mertoguno, Shuai Wang, and Fengwei Zhang.
